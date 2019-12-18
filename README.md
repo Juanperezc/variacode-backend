@@ -23,7 +23,7 @@ Se sugiere un par de días, pero puede tomar lo que necesites.
 3. Importar base de datos #Linux
     psql -h 127.0.0.1 -d [BD] -U [usuario] -f ./variacode.sql
 
-4. Cambiar variables de conexión en la linea 21 de ./server/data-base
+4. Cambiar variables de conexión en la linea 21 de ./server/data-base.js
 
 5. - npm start # recomiendo utilizar http://pm2.keymetrics.io/
 
